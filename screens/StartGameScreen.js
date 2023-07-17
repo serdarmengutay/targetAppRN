@@ -84,6 +84,9 @@ const styles = StyleSheet.create({
     width: 50,
     textAlign: "center",
   },
+  buttonsContainer: {
+    flexDirection: 'row',
+  }
 });
 
 export default StartGameScreen;
